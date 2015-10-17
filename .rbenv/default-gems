@@ -1,0 +1,4 @@
+bundler
+rails
+rubocop
+scss_lint

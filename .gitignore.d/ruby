@@ -1,0 +1,7 @@
+*
+!/.gemrc
+!/.gitignore.d
+!/.gitignore.d/ruby
+!/.irbrc
+!/.rbenv
+!/.rbenv/default-gems
