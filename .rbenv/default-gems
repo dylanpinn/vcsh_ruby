@@ -2,3 +2,6 @@ bundler
 rails
 rubocop
 scss_lint
+haml_lint
+htmlbeautifier
+slim
